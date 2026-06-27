@@ -131,7 +131,7 @@ export default function Home() {
                 className="px-6 py-3 rounded-full font-medium text-lg text-white bg-linear-to-r from-[#1cd8d2] via-[#00bf8f] to-[#302b63] shadow-lg hover:scale-105 transition-all ">
                 View My Work
               </a>
-              <a href="https://drive.google.com/file/d/11-265fMGKY8VhrDPLF5H93Oni6ooJbpm/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1ryxGj4FBunjyMyrmHdjn8V2el5IOgeSW/view?usp=sharing"
                 className="px-6 py-3 rounded-full text-lg font-medium text-black bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"
               >
                 My Resume
